@@ -1,0 +1,40 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "5e2515ff0fcd59f450cb314ec4480a09",
+    "packages": [
+        {
+            "name": "salad/salad",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:shawndempsey/dependencies-salad.git",
+                "reference": "8fc5e5e52297b72dca833d512be3be169e955c51"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/shawndempsey/dependencies-salad/zipball/8fc5e5e52297b72dca833d512be3be169e955c51",
+                "reference": "8fc5e5e52297b72dca833d512be3be169e955c51",
+                "shasum": ""
+            },
+            "type": "library",
+            "support": {
+                "source": "https://github.com/shawndempsey/dependencies-salad/tree/v1.0.1",
+                "issues": "https://github.com/shawndempsey/dependencies-salad/issues"
+            },
+            "time": "2022-08-13T14:49:54+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

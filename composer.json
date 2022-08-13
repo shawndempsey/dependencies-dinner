@@ -1,0 +1,12 @@
+{
+    "name": "dinner/dinner",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/shawndempsey/dependencies-salad.git"
+        }
+    ],
+    "require": {
+        "salad/salad": "^1.0.1"
+    }
+}
