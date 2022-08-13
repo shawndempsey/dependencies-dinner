@@ -8,24 +8,29 @@
     "packages": [
         {
             "name": "salad/salad",
-            "version": "v1.0.1",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:shawndempsey/dependencies-salad.git",
-                "reference": "8fc5e5e52297b72dca833d512be3be169e955c51"
+                "reference": "a4988645678e6ac789a6c090a6148bb2d7ac887b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shawndempsey/dependencies-salad/zipball/8fc5e5e52297b72dca833d512be3be169e955c51",
-                "reference": "8fc5e5e52297b72dca833d512be3be169e955c51",
+                "url": "https://api.github.com/repos/shawndempsey/dependencies-salad/zipball/a4988645678e6ac789a6c090a6148bb2d7ac887b",
+                "reference": "a4988645678e6ac789a6c090a6148bb2d7ac887b",
                 "shasum": ""
             },
             "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Salad\\": "src/"
+                }
+            },
             "support": {
-                "source": "https://github.com/shawndempsey/dependencies-salad/tree/v1.0.1",
+                "source": "https://github.com/shawndempsey/dependencies-salad/tree/v1.1.0",
                 "issues": "https://github.com/shawndempsey/dependencies-salad/issues"
             },
-            "time": "2022-08-13T14:49:54+00:00"
+            "time": "2022-08-13T15:09:03+00:00"
         }
     ],
     "packages-dev": [],
